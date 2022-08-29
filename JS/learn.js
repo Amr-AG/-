@@ -76,5 +76,5 @@ for (let i = 0; i < 8; i++) {
   };
 }
 container.style.cssText =
-  "display:flex;flex-wrap:wrap;justify-content:center;align-content: center;align-items: center;width:100%;";
+  " display:flex;flex-wrap:wrap;justify-content:center;align-content: center;align-items: center;width:100%;";
 document.body.appendChild(container);
