@@ -2,9 +2,9 @@ let container = document.createElement("div");
 for (let i = 0; i < 8; i++) {
   let productTitle = ["Polo T-Shirt"];
   let productImages = [
-    "../images/1.webp",
+    "images/1.webp",
     "../images/2.webp",
-    "../images/3.webp",
+    "images/3.webp",
     "../images/4.webp",
     "../images/5.webp",
     "../images/6.webp",
