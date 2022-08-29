@@ -3,13 +3,13 @@ for (let i = 0; i < 8; i++) {
   let productTitle = ["Polo T-Shirt"];
   let productImages = [
     "images/1.webp",
-    "../images/2.webp",
+    "images/2.webp",
     "images/3.webp",
-    "../images/4.webp",
-    "../images/5.webp",
-    "../images/6.webp",
-    "../images/7.webp",
-    "../images/8.webp",
+    "images/4.webp",
+    "images/5.webp",
+    "images/6.webp",
+    "images/7.webp",
+    "images/8.webp",
   ];
   let productDescription = [
     "Regular Fit Shirt Collar Short Sleeve T-Shirt",
